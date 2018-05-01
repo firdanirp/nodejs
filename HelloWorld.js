@@ -7,3 +7,5 @@ function Permutation(input){
         return input * Permutation(input-1);
     }
 }
+
+console.log(Permutation(input));
