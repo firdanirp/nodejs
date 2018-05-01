@@ -8,4 +8,5 @@ function Permutation(input){
     }
 }
 
+}
 console.log(Permutation(input));
